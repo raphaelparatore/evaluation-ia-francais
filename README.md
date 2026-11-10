@@ -35,7 +35,9 @@ J'ai fait lire des corpus de référence à une IA, avec une consigne stricte : 
 | Métier d'évaluateur (5 documents publics) | 90 | 65 | 25 |
 | **Total** | **719** | **551 (77 %)** | **168 (23 %)** |
 
-**Ce que ça veut dire :** une IA sur cinq environ a inventé ou déformé une citation, avec le ton de la certitude. La méthode les a toutes repérées avant qu'elles servent.
+**Ce que ça veut dire :** sur les 719 citations contrôlées de ces cinq corpus, **168 (23 %) étaient introuvables ou déformées dans le texte original** — et l'IA les présentait avec le ton de la certitude. La méthode les a repérées avant qu'elles servent.
+
+Ce chiffre décrit **ce corpus-là**, pas un taux d'erreur général des IA : il dépend des sources, des consignes et de la langue. Ce qui se généralise, c'est la méthode, pas le pourcentage.
 
 ## 3. Un cas travaillé de bout en bout
 
@@ -43,7 +45,12 @@ Fichier : [`CAS-01.md`](CAS-01.md)
 
 Un cas fictif : une réponse d'IA qui contient quatre défauts — un conseil contraire à l'Académie française, une loi datée de 1996 au lieu de 1994, une amende inventée, et de la flatterie. Le protocole appliqué geste par geste, la grille remplie, la note finale et la bonne réponse modèle.
 
-## 4. Ce que cette méthode ne fait pas
+## 4. Le registre des preuves
+Fichier : [`REGISTRE-DES-PREUVES.md`](REGISTRE-DES-PREUVES.md)
+
+Une citation exacte prouve que l'auteur a écrit la phrase, pas que l'affirmation est vraie. Le registre force, pour chaque étude : population, méthode, taille d'effet, financement, statut de publication, réplications et rétractations — et ce que la preuve **ne** permet pas de conclure.
+
+## 5. Ce que cette méthode ne fait pas
 Fichier : [`LIMITES.md`](LIMITES.md)
 
 Courte liste assumée : elle ne rend pas un débutant expert, elle dépend de la qualité des sources, elle ne remplace pas la grille d'un client, et ses évaluations de tonalité sont subjectives — c'est précisément pour ça qu'elle les sépare de la mécanique.

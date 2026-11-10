@@ -36,6 +36,19 @@ Ce n'est pas un détail technique. Un évaluateur qui ne vérifie pas ses source
 
 > **Aucune citation ne sort avant d'avoir été retrouvée dans le texte. Et quand la source est muette, on l'écrit : « rien dans les sources ».**
 
+## Ce que ce chiffre ne dit pas
+
+Ce 23 % décrit **les citations contrôlées dans ces cinq corpus**, pas un taux d'erreur général. Il dépend des sources, de la langue et des consignes. Deux réserves, et elles sont importantes :
+
+- **Les défauts d'extraction ne sont pas des mensonges.** Une citation rejetée peut venir d'un PDF mal extrait, d'une ligature non normalisée ou d'une césure. Le comptage distingue les deux, mais la frontière est parfois floue.
+- **Une citation exacte ne prouve rien sur la vérité de l'affirmation.** Elle prouve que l'auteur a écrit cette phrase. Savoir si l'auteur a raison est un autre travail — celui du registre des preuves (`REGISTRE-DES-PREUVES.md`).
+
+## Trois règles ajoutées après revue
+
+1. **Aucune conclusion importante sans recherche contradictoire documentée**, et sans contrôle de l'adéquation entre la preuve et l'affirmation.
+2. **Dédupliquer les preuves par étude originale** : cinq livres et interviews qui reprennent la même expérience ne sont pas cinq confirmations indépendantes.
+3. **« Aucune réplication trouvée » n'est pas « résultat non répliqué ».** On écrit laquelle des deux on a constatée.
+
 ## Les limites de la méthode
 
 - Elle vérifie des citations, pas des raisonnements : une phrase exacte peut être utilisée pour dire le contraire de ce que l'auteur voulait dire. C'est l'étape manuelle qui rattrape ça.
